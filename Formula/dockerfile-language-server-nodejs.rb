@@ -1,6 +1,6 @@
 require "language/node"
 
-class DockerfileLanguageServerNodeJs < Formula
+class DockerfileLanguageServerNodejs < Formula
   desc "A language server for Dockerfiles powered by NodeJS, TypeScript, and VSCode technologies"
   homepage "https://github.com/rcjsuen/dockerfile-language-server-nodejs#readme"
   url "https://registry.npmjs.org/dockerfile-language-server-nodejs/-/dockerfile-language-server-nodejs-0.9.0.tgz"
